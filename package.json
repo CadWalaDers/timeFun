@@ -1,7 +1,7 @@
 {
   "name": "timefun",
   "description": "各类类型的时间戳处理",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "cadwaladers <1038886097@qq.com>",
   "license": "MIT",
   "main": "dist/index.js",
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/CadWalaDers/timeFun.git/issues"
   },
-  "homepage": "https://github.com/CadWalaDers/text",
+  "homepage": "https://github.com/CadWalaDers/timeFun",
   "keywords": [
     "vue",
     "支持ts和js",
