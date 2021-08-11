@@ -1,0 +1,16 @@
+.DS_Store
+.git
+node_modules/
+.idea/
+npm-debug.log
+yarn-error.log
+.history
+src
+.babelrc
+.editorconfig
+.gitignore
+.npmignore
+index.html
+package.json
+tsconfig.json
+webpack.config.js
